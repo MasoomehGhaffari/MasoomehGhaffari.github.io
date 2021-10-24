@@ -9,9 +9,8 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
-
-
-
+* [الهام غلامی](https://elhamgholami.github.io)
+* [شادی علی زرگرزاده](https://ShadiZargar.github.io)
+* [زهرا علیزاده](https://zahra121281.github.io)
+* [آیدا نجفی](https://AidaNajafi.github.io)
+* [زهرا عباسقلی](https://ZahraAbbasgholi.github.io)
